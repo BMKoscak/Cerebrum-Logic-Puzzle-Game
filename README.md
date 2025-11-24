@@ -16,11 +16,12 @@ Cerebrum is a browser-based logic and pattern recognition game designed to test 
 🛠️ Installation
 No installation required. The game runs entirely in a single HTML file with zero external dependencies (other than CDNs for styling).
 1. Clone the repository:
-git clone [https://github.com/TheBenn/cerebrum.git](https://github.com/TheBenn/cerebrum.git)
+git clone [https://github.com/BMKoscak/Cerebrum-Logic-Puzzle-Game](https://github.com/BMKoscak/Cerebrum-Logic-Puzzle-Game)
 
 2. Navigate to the folder and open index.html.
 👨‍💻 Author
 The Benn
 📄 License
 This project is licensed under the MIT License.
+
 Copyright (c) 2025 The Benn.
